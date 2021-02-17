@@ -1,0 +1,29 @@
+Managing Director Level: 2248 null values
+Last Promotion Date: 1603 null values
+Deloitte Service Date: 1 null values
+MF Recoverable: 2292 null values
+Employee Type End Date: 1634 null values
+Sending Firm Key: 2093 null values
+Sending Firm: 2093 null values
+Receiving Firm Key: 2094 null values
+Receiving Firm: 2094 null values
+Compensation Area Key: 982 null values
+Gender Key: 95 null values
+EO Key: 1505 null values
+Ethnicity: 1505 null values
+Ethnic Diversity: 1505 null values
+URM: 2147 null values
+MF RC: 130 null values
+MF Job Code: 1225 null values
+MF Level: 1226 null values
+MF Job Title: 76 null values
+Primary Role: 1674 null values
+Secondary Manager Name: 2292 null values
+Sr Staff Milestone Date Attended: 2187 null values
+Mgr Milestone Date Attended: 1969 null values
+Sr Mgr Milestone Date Attended: 2103 null values
+AD Milestone Date Attended: 2252 null values
+STARS Date Attended: 2239 null values
+SMDC Date Attended: 2273 null values
+AD LADC Date Attended: 2270 null values
+MD LADC Date Attended: 2283 null values
